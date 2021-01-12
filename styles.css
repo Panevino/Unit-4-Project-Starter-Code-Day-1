@@ -1,0 +1,169 @@
+img {
+    height: 100px;   
+}
+.mp {
+    height: 90px;
+    padding: 10px;
+    margin: 5px;
+    display: flex; 
+    justify-content: center;
+}
+.cursive {
+    font-family: 'Itim', cursive;}
+.div1 {
+    height: 90px;
+    padding: 10px;
+    margin: 30px;
+    display: flex; 
+    justify-content: flex-end;
+    
+}
+.i{
+    height: 90px;
+    padding: 1px;
+    margin: 4px;
+}
+.div2 {
+    height: 90px;
+    padding: 10px;
+    margin: 5px;
+    display: flex; 
+    justify-content: center;
+    
+}
+.div3 {
+    height: 90px;
+
+    margin: 50px;
+    display: flex; 
+    justify-content: flex-start;
+    
+}
+img {
+    height: 200px;
+    padding: 0px;
+    border: 6px solid;
+    margin: 5px;
+}
+.box1 {
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black; 
+    margin: 30px; 
+    padding: 15px; 
+    text-align:center;
+    background-color: #13C176;
+    height: 90px;  
+    border-top-right-radius: 50px 20px;
+    border-bottom-left-radius: 50px 20px;
+    width: 50%;
+}
+
+.box2 {
+
+    border: 1px solid black; 
+    margin: 15px; 
+    padding: 10px; 
+    text-align:center;
+    background-color: #13C176;
+    height: 90px;  
+    border-top-right-radius: 50px 20px;
+    border-bottom-left-radius: 50px 20px;
+    width: 50%;
+}
+.mc {
+    display: flex;
+    justify-content: space-around;
+    border: 10px solid; 
+    margin: 15px; 
+    padding: 15px; 
+    text-align:center;
+    background-color: #36A3F6;
+    height: 59px;
+}
+.h1body {
+    text-align: center;
+}
+body {
+ background-image: url("https://images.all-free-download.com/images/graphiclarge/space_background_colored_repeating_icons_sketch_6827786.jpg");
+}
+h1 {
+    text-align: center;
+    border: 10px solid darkblue; 
+    margin: 30px; 
+    padding: 15px;
+    background-color: #36A3F6;
+}
+h2 {
+    text-align: center;
+
+    margin: 15px; 
+    padding: 15px; 
+}
+
+body{
+    font-family: 'Varela Round', sans-serif;}
+body {
+    color: blue;
+       -webkit-animation:colorchange 20s infinite alternate;
+}
+
+.box1 {
+        display: flex;
+    justify-content: flex-end;
+}
+@-webkit-keyframes colorchange {
+      0% {
+        
+        color: blue;
+      }
+      
+      10% {
+        
+        color: #8e44ad;
+      }
+      
+      20% {
+        
+        color: #1abc9c;
+      }
+      
+      30% {
+        
+        color: #d35400;
+      }
+      
+      40% {
+        
+        color: blue;
+      }
+      
+      50% {
+        
+        color: #34495e;
+      }
+      
+      60% {
+        
+        color: blue;
+      }
+      
+      70% {
+        
+        color: #2980b9;
+      }
+      80% {
+     
+        color: #f1c40f;
+      }
+      
+      90% {
+     
+        color: #2980b9;
+      }
+      
+      100% {
+        
+        color: pink;
+      }
+    }
